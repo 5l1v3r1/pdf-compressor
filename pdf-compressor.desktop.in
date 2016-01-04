@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Pdf Compressor
+_Comment=PdfCompressor application
+Categories=GNOME;Utility;
+Exec=pdf-compressor
+Icon=pdf-compressor
+Terminal=false
+Type=Application
