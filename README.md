@@ -18,3 +18,6 @@ After installation, you can pdf-compressor directly through your desktop GUI.
 After a compression, the compressed file will appear next to the uncompressed pdf file with the new filename: <old_file_name>_compressed.pdf .
 
 Only compress one file at a time. 
+
+Further Developing notes:
+- This program was developed using the quickly framework. https://wiki.ubuntu.com/Quickly
